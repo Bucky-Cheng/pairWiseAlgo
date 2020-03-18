@@ -2,7 +2,7 @@
 
 Language Java, JDK:1.8   IDE: IntelliJ IDEA,   Maven: No
 
-Have initial input data, need to modify the expected input data , the data is Spring[][].
+Have initial input data, need to modify the expected input data , the data format is Spring[][].
 
 Initial input data String[][] initial = new String[][]{
         {"F", "B", "E"},            
