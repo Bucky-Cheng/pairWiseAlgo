@@ -14,8 +14,8 @@ public class Main {
     ArrayList tempResult=new ArrayList();
     //tempResult.add("B,D,U,O,S,D,V,D,P,S");
     //tempResult.add("F,N,U,O,S,D,V,D,N,N");
-    pairwise.Generate("FDUOSDVDPN",tempResult);
+    //pairwise.Generate("FDUOSDVDPN",tempResult);
         AllArray allArray=new AllArray();
-       //allArray.getAll();
+       allArray.getAll();
     }
 }

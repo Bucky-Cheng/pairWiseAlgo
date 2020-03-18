@@ -43,7 +43,7 @@ public class pairwiseALGO {
 
                 ss = ss.replaceAll("\\[", "").replaceAll("\\]", "");
 
-                System.out.println(ss);
+                //System.out.println(ss);
                 r.add(ss);
             }
 
@@ -79,7 +79,7 @@ public class pairwiseALGO {
 
 
             }
-            System.out.println("FLAG:"+flag);
+            //System.out.println("FLAG:"+flag);
             if(flag==false){
                 bol=false;
 
@@ -90,8 +90,8 @@ public class pairwiseALGO {
 
             return false;
         }else {
-            System.out.println("bol:"+bol);
-            System.out.println("-----------------------------------------");
+            //System.out.println("bol:"+bol);
+            //System.out.println("-----------------------------------------");
             return bol;
         }
     }
