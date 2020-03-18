@@ -49,7 +49,7 @@ public class AllArray {
                          if(conbinationF.TestPairWise(Arrays.toString(temp))){
                               total++;
                          }
-                         if(total==170){
+                         if(total==160){
                               System.out.println("TOTAL IS:"+total);
                               showResult.show(conbinationF.getResult());
                               System.exit(0);
